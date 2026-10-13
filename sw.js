@@ -1,4 +1,4 @@
-const CACHE_NAME = 'master-protocol-v1';
+const CACHE_NAME = 'master-protocol-v2';
 const ASSETS_TO_CACHE = [
   './',
   './index.html',
